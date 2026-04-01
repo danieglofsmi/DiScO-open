@@ -50,7 +50,6 @@ Links to the dataset used:
 - AMC 2023: https://huggingface.co/datasets/math-ai/amc23
 - MATH-500: https://huggingface.co/datasets/HuggingFaceH4/MATH-500
 - GSM8k: https://huggingface.co/datasets/openai/gsm8k
-- GPQA-Diamond: https://github.com/idavidrein/gpqa
 
 ### Base models
 DeepSeek-R1-Distill-Qwen-7B: https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
